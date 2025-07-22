@@ -6,7 +6,6 @@ The global energy transition represents one of the most critical challenges of o
 
 This project addresses the following key questions:
 - **How can we categorize countries based on their energy transition patterns?**
-- **What are the main pathways countries are taking toward renewable energy?**
 - **Are there distinct differences between developed and developing nations in their transition strategies?**
 - **Which countries represent unique cases that don't fit common patterns?**
 
